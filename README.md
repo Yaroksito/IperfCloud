@@ -1,9 +1,9 @@
 <img alt="Rook" src="media/iperf-logo.png" width="50%" height="50%">
 
-# iperfcon
-iperfcon is for Openshift/Kubernetes bandwidth testing the SDN network.
-the iperf-client is working with the iperf-server container and outputs 
-the iperf3 results summery after we run a GET command  to the iperf-client 
+# IperfCloud
+IperfCloud is used for Openshift/Kubernetes bandwidth testing the SDN network.
+The iperf-client is working with the iperf-server container and outputs 
+the iperf3 results summary after we run a GET command  to the iperf-client 
 route with the right values.
 
 we can use it for several used cases:
